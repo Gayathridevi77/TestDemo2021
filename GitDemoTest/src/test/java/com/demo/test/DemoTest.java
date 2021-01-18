@@ -14,6 +14,7 @@ public static Properties prop;
 			prop.load(ip);
 		}catch(Exception e) {
 			e.printStackTrace();
+			System.out.println("gayathri");
 		}
 		}
 }
